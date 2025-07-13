@@ -62,17 +62,17 @@ This dataset provides detailed information about job postings in the Artificial 
 
 
 * Senior AI roles offer the highest salaries, especially in consulting and healthcare sectors.
-* 
+  
 * Large companies pay more and provide better benefits.
-* 
+
 * Remote work is common in high-paying roles, especially for ML Engineers and Data Scientists.
-* 
+  
 * Job posting durations vary — startups hire quickly, while large firms have longer hiring cycles.
-* 
+  
 * Most top-paying jobs require a Master’s degree and 3+ years of experience.
-* 
+  
 * Salaries are rising steadily over time, with peaks in Q1 and Q3.
-* 
+  
 * AI Software Engineer, ML Engineer, and Data Scientist are the most in-demand roles.
 
 
