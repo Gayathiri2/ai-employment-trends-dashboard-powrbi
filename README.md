@@ -39,7 +39,6 @@ The dashboard is divided into two key analytical sections:
 
 ### **📁 Dataset Description**
 
-&nbsp;
 
 This dataset provides detailed information about job postings in the Artificial Intelligence (AI) job market, focusing on roles such as AI Software Engineer, ML Engineer, Data Scientist, and other AI-related positions. It captures essential attributes related to salaries, benefits, job structure, and organizational context.
 
